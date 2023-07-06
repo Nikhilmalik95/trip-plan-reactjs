@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/trip-plan-reactjs/static/css/main.ebd91b8b.css",
+    "main.js": "/trip-plan-reactjs/static/js/main.75e0db1a.js",
+    "index.html": "/trip-plan-reactjs/index.html",
+    "main.ebd91b8b.css.map": "/trip-plan-reactjs/static/css/main.ebd91b8b.css.map",
+    "main.75e0db1a.js.map": "/trip-plan-reactjs/static/js/main.75e0db1a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebd91b8b.css",
+    "static/js/main.75e0db1a.js"
+  ]
+}
